@@ -1,0 +1,25 @@
+{
+  "name": "kitdbase-sqlite",
+  "version": "1.0.0",
+  "description": "kitdbase-sqlite is a lightweight and fluid library for managing SQLite databases in Node.js. It makes it easy to create SQLite queries without losing flexibility.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kitdbase",
+    "mongodb",
+    "kitdbase-sqlite",
+    "orm",
+    "darthstack",
+    "albert",
+    "araya"
+  ],
+  "author": "Albert Araya",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "sqlite3": "^5.1.7"
+  }
+}
